@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "SuperStefan 1.12.2",
+      "name" : "SuperStefanPack",
+      "version" : "2020-08-31-10-02-55",
+      "location" : "superstefanpack.json",
+      "priority" : 0
+    }
+  ]
+}
